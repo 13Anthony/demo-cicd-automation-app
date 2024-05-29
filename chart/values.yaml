@@ -6,7 +6,7 @@ image:
   repository: docker.io/mpusty/argo-demo-app
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 7cbd81b
+  tag: 2f94007
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
